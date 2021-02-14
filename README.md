@@ -1,8 +1,8 @@
 # Implement a design with bootstrap
 
-	In this project, we are implementing 3 web pages with Bootstrap. We will use HTML/CSS/Accessibility/Responsive design/Bootstrap knowledges.
+In this project, we are implementing 3 web pages with Bootstrap. We will use HTML/CSS/Accessibility/Responsive design/Bootstrap knowledges.
 
-	The objective is simple: Have fully functional web pages that look the same as the following designer files.
+The objective is simple: Have fully functional web pages that look the same as the following designer files.
 
 
 The following templates of the 3 web pages are respectively:
